@@ -1,1 +1,1 @@
-- Difference Between MVC and MVVM Architecture Pattern
+Difference Between MVC and MVVM Architecture Pattern
